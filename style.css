@@ -1,0 +1,16 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 100px;
+}
+
+#myButton{
+    font-size: 3em;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#myLabel{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+}
